@@ -10,6 +10,7 @@ header{
     margin-top: 10px;
     display: flex;
     justify-content: center;
+    background-color: white;
 }
 
 .subsection{
@@ -27,15 +28,17 @@ header{
     display: flex;
     align-items: center;
     font-size: 30px;
+    background-color: white;
 }
 
 #logo span{
     color: rgb(85, 25, 25);
-    background-color: none
+    background-color: white;
 }
 
 #logo img{
     height: 38px;
+    background-color: white;
 }
 
 /*Main*/
